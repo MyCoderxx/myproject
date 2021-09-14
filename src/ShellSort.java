@@ -1,7 +1,7 @@
 
 
 
-//选择排序
+//希尔排序
 public class ShellSort {
     public static void sort(Comparable[] a) {
         //获取希尔排序的增量最大值
