@@ -47,7 +47,7 @@ public class Merge {
             assist[help++]=a[p++];
         }
          //将辅助数组复制到原数组中
-        for (int i = 0; i <=height; i++) {
+        for (int i = low; i <=height; i++) {
             a[i]=assist[i];
         }
     }
