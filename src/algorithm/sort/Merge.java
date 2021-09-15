@@ -1,3 +1,5 @@
+package algorithm.sort;
+
 public class Merge {
     //对数组a进行排序
     private static Comparable[] assist;

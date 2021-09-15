@@ -1,3 +1,7 @@
+package test;
+
+import algorithm.sort.QuickSort;
+
 import java.util.Arrays;
 
 public class Test {

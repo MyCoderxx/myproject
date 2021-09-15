@@ -1,3 +1,5 @@
+package algorithm.sort;
+
 public class QuickSort {
 
     //对数组a进行排序
