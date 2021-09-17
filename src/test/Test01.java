@@ -4,7 +4,7 @@ import algorithm.sort.QuickSort;
 
 import java.util.Arrays;
 
-public class Test {
+public class Test01 {
     public static void main(String[] args) {
        Integer[]a={1,15,5,9,8,3,4,6,7};
         QuickSort.sort(a);
